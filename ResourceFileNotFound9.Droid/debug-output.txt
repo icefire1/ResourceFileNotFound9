@@ -1,0 +1,258 @@
+﻿This debug engine does not support exception conditions. The condition(s) will be ignored.
+[cefilenotfound9] Late-enabling -Xcheck:jni
+[cefilenotfound9] Using CollectorTypeCMC GC.
+[nativeloader] Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+[CompatibilityChangeReporter] Compat change id reported: 171979766; UID 10631; state: ENABLED
+[CompatibilityChangeReporter] Compat change id reported: 242716250; UID 10631; state: ENABLED
+[ziparchive] Unable to open '/data/app/~~7WfjaunRnq7F-c0wQz399g==/com.companyname.resourcefilenotfound9-7Cj2SpACFSSD4O0mmfADZA==/base.dm': No such file or directory
+[ziparchive] Unable to open '/data/app/~~7WfjaunRnq7F-c0wQz399g==/com.companyname.resourcefilenotfound9-7Cj2SpACFSSD4O0mmfADZA==/base.dm': No such file or directory
+[nativeloader] Configuring clns-4 for other apk /data/app/~~7WfjaunRnq7F-c0wQz399g==/com.companyname.resourcefilenotfound9-7Cj2SpACFSSD4O0mmfADZA==/base.apk. target_sdk_version=35, uses_libraries=, library_path=/data/app/~~7WfjaunRnq7F-c0wQz399g==/com.companyname.resourcefilenotfound9-7Cj2SpACFSSD4O0mmfADZA==/lib/arm64:/data/app/~~7WfjaunRnq7F-c0wQz399g==/com.companyname.resourcefilenotfound9-7Cj2SpACFSSD4O0mmfADZA==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.companyname.resourcefilenotfound9
+[nativeloader] Load libframework-connectivity-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity.jar: ok
+[GraphicsEnvironment] Currently set values for:
+[GraphicsEnvironment]   angle_gl_driver_selection_pkgs=[]
+[GraphicsEnvironment]   angle_gl_driver_selection_values=[]
+[GraphicsEnvironment] ANGLE GameManagerService for com.companyname.resourcefilenotfound9: false
+[GraphicsEnvironment] com.companyname.resourcefilenotfound9 is not listed in per-application setting
+[GraphicsEnvironment] Neither updatable production driver nor prerelease driver is supported.
+[nativeloader] Load /data/app/~~7WfjaunRnq7F-c0wQz399g==/com.companyname.resourcefilenotfound9-7Cj2SpACFSSD4O0mmfADZA==/lib/arm64/libmonosgen-2.0.so using ns clns-4 from class loader (caller=/data/app/~~7WfjaunRnq7F-c0wQz399g==/com.companyname.resourcefilenotfound9-7Cj2SpACFSSD4O0mmfADZA==/base.apk!classes2.dex): ok
+[nativeloader] Load /data/app/~~7WfjaunRnq7F-c0wQz399g==/com.companyname.resourcefilenotfound9-7Cj2SpACFSSD4O0mmfADZA==/lib/arm64/libxamarin-app.so using ns clns-4 from class loader (caller=/data/app/~~7WfjaunRnq7F-c0wQz399g==/com.companyname.resourcefilenotfound9-7Cj2SpACFSSD4O0mmfADZA==/base.apk!classes2.dex): ok
+[nativeloader] Load /data/app/~~7WfjaunRnq7F-c0wQz399g==/com.companyname.resourcefilenotfound9-7Cj2SpACFSSD4O0mmfADZA==/lib/arm64/libSystem.Security.Cryptography.Native.Android.so using ns clns-4 from class loader (caller=/data/app/~~7WfjaunRnq7F-c0wQz399g==/com.companyname.resourcefilenotfound9-7Cj2SpACFSSD4O0mmfADZA==/base.apk!classes2.dex): ok
+[DOTNET] AndroidCryptoNative_InitLibraryOnLoad: jint AndroidCryptoNative_InitLibraryOnLoad(JavaVM *, void *) in /__w/1/s/src/native/libs/System.Security.Cryptography.Native.Android/pal_jni.c
+[DOTNET] GetOptionalClassGRef: optional class com/android/org/conscrypt/OpenSSLEngineImpl was not found
+[nativeloader] Load /data/app/~~7WfjaunRnq7F-c0wQz399g==/com.companyname.resourcefilenotfound9-7Cj2SpACFSSD4O0mmfADZA==/lib/arm64/libmonodroid.so using ns clns-4 from class loader (caller=/data/app/~~7WfjaunRnq7F-c0wQz399g==/com.companyname.resourcefilenotfound9-7Cj2SpACFSSD4O0mmfADZA==/base.apk!classes2.dex): ok
+[monodroid] Failed to create directory '/data/user/0/com.companyname.resourcefilenotfound9/files/.__override__/arm64-v8a'. File exists
+[monodroid] Creating public update directory: `/data/user/0/com.companyname.resourcefilenotfound9/files/.__override__/arm64-v8a`
+[cefilenotfound9] Attempt to remove non-JNI local reference
+[monodroid-debug] Trying to initialize the debugger with options: --debugger-agent=transport=dt_socket,loglevel=0,address=127.0.0.1:8888,server=y,embedding=1,timeout=1732718979
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly ResourceFileNotFound9.Droid.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Mono.Android.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.Runtime.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Java.Interop.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.Runtime.InteropServices.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.Collections.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Mono.Android.Runtime.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.Threading.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.Threading.Thread.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.Diagnostics.StackTrace.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[cefilenotfound9] Attempt to remove non-JNI local reference
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Microsoft.Maui.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.Memory.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.Reflection.Emit.Lightweight.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.Reflection.Emit.ILGeneration.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.Reflection.Primitives.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Microsoft.Maui.Essentials.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Xamarin.AndroidX.Core.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.ComponentModel.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Microsoft.Extensions.DependencyInjection.Abstractions.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.Console.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly ResourceFileNotFound9.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Microsoft.Extensions.Configuration.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Microsoft.Extensions.Configuration.Abstractions.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Microsoft.Extensions.Logging.Abstractions.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Microsoft.Maui.Controls.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.ObjectModel.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Microsoft.Maui.Controls.Xaml.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Microsoft.Extensions.Logging.Debug.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.Private.Uri.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.Xml.ReaderWriter.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.Private.Xml.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.Runtime.Loader.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Microsoft.Maui.Graphics.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.Linq.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Xamarin.AndroidX.AppCompat.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.ComponentModel.TypeConverter.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Xamarin.Google.Android.Material.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Xamarin.AndroidX.Fragment.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Xamarin.AndroidX.Activity.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Xamarin.AndroidX.Lifecycle.ViewModel.Android.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Xamarin.AndroidX.Lifecycle.Common.Jvm.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Xamarin.AndroidX.SavedState.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Xamarin.AndroidX.DrawerLayout.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Xamarin.AndroidX.CustomView.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Xamarin.AndroidX.Navigation.Runtime.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.Net.Primitives.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Microsoft.Extensions.Logging.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Microsoft.Extensions.Options.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.Collections.Concurrent.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Microsoft.Extensions.DependencyInjection.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.Diagnostics.Tracing.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.Text.Encoding.Extensions.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly da-DK/System.Private.CoreLib.resources.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_update_dir: assembly file DOES NOT EXIST
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly da-DK/System.Private.CoreLib.resources.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly da-DK/System.Private.CoreLib.resources.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_update_dir: assembly file DOES NOT EXIST
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly da-DK/System.Private.CoreLib.resources.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+**System.IO.FileNotFoundException:** ''
+
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly da/System.Private.CoreLib.resources.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_update_dir: assembly file DOES NOT EXIST
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly da/System.Private.CoreLib.resources.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly System.Numerics.Vectors.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[cefilenotfound9] Explicit concurrent mark compact GC freed 1824KB AllocSpace bytes, 0(0B) LOS objects, 70% free, 2564KB/8708KB, paused 32us,855us total 4.595ms
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Xamarin.AndroidX.RecyclerView.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Xamarin.AndroidX.SwipeRefreshLayout.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Xamarin.AndroidX.CardView.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[OpenGLRenderer] HWUI - treat SMPTE_170M as sRGB
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Xamarin.AndroidX.Loader.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[AppCompatDelegate] Checking for metadata for AppLocalesMetadataHolderService : Service not found
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly _Microsoft.Android.Resource.Designer.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly netstandard.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Xamarin.AndroidX.CoordinatorLayout.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Microsoft.Extensions.Primitives.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Xamarin.AndroidX.Lifecycle.Runtime.Android.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Xamarin.Kotlin.StdLib.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Xamarin.KotlinX.Coroutines.Core.Jvm.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[DecorView] setWindowBackground: isPopOver=false color=ff121212 d=android.graphics.drawable.ColorDrawable@7aa87ae
+[cefilenotfound9] Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Xamarin.AndroidX.ViewPager2.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[CompatibilityChangeReporter] Compat change id reported: 171228096; UID 10631; state: ENABLED
+[TabLayout] MODE_SCROLLABLE + GRAVITY_FILL is not supported, GRAVITY_START will be used instead
+[CompatibilityChangeReporter] Compat change id reported: 210923482; UID 10631; state: ENABLED
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly Xamarin.AndroidX.ViewPager.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly da-DK/System.Private.Xml.resources.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_update_dir: assembly file DOES NOT EXIST
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly da-DK/System.Private.Xml.resources.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+**System.IO.FileNotFoundException:** ''
+
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly da/System.Private.Xml.resources.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+[monodroid-assembly] open_from_update_dir: assembly file DOES NOT EXIST
+[monodroid-assembly] open_from_bundles: failed to load bundled assembly da/System.Private.Xml.resources.dll
+[monodroid-assembly] open_from_bundles: the assembly might have been uploaded to the device with FastDev instead
+**System.IO.FileNotFoundException:** ''
+
+[cefilenotfound9] Explicit concurrent mark compact GC freed 1218KB AllocSpace bytes, 0(0B) LOS objects, 62% free, 3747KB/9891KB, paused 61us,1.131ms total 8.101ms
+[CompatibilityChangeReporter] Compat change id reported: 237531167; UID 10631; state: DISABLED
+[NativeCustomFrequencyManager] [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+[InsetsController] onStateChanged: host=com.companyname.resourcefilenotfound9/crc64927116bd84c3d9be.MainActivity, from=android.view.ViewRootImpl.setView:1753, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2340), mDisplayCutout=DisplayCutout{insets=Rect(0, 80 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(511, 0 - 569, 80), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2340 physicalDisplayWidth=1080 physicalDisplayHeight=2340 density={2.8125} cutoutSpec={M 0,0 M 0,7.822222222222222‬‬ a 10.31111111111111‬,10.31111111111111‬ 0 1,0 0,20.62222222222222‬ a 10.31111111111111‬,10.31111111111111‬ 0 1,0 0,-20.62222222222222‬ Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=0, center=Point(0, 0)}, RoundedCorner{position=TopRight, radius=0, center=Point(0, 0)}, RoundedCorner{position=BottomRight, radius=0, center=Point(0, 0)}, RoundedCorner{position=BottomLeft, radius=0, center=Point(0, 0)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2340), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(964, 0 - 1080, 80) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1080 displayHeight=2340 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,80] mVisible=true mFlags=[]}, InsetsSource: {48170001 mType=navigationBars mFrame=[0,2301][1080,2340] mVisible=true mFlags=[SUPPRESS_SCRIM]}, InsetsSource: {48170004 mType=systemGestures mFrame=[0,0][78,2340] mVisible=true mFlags=[]}, InsetsSource: {48170005 mType=mandatorySystemGestures mFrame=[0,2256][1080,2340] mVisible=true mFlags=[]}, InsetsSource: {48170006 mType=tappableElement mFrame=[0,0][0,0] mVisible=true mFlags=[]}, InsetsSource: {48170024 mType=systemGestures mFrame=[1002,0][1080,2340] mVisible=true mFlags=[]}, InsetsSource: {66d40000 mType=statusBars mFrame=[0,0][1080,80] mVisible=true mFlags=[]}, InsetsSource: {66d40005 mType=mandatorySystemGestures mFrame=[0,0][1080,112] mVisible=true mFlags=[]}, InsetsSource: {66d40006 mType=tappableElement mFrame=[0,0][1080,80] mVisible=true mFlags=[]} }
+[ViewRootImpl@7b0d165[MainActivity]] synced displayState. AttachInfo displayState=2
+[ViewRootImpl@7b0d165[MainActivity]] setView = com.android.internal.policy.DecorView@e2fdde5 TM=true
+[IDS_TAG] Starting IDS observe window
+[IDS_TAG] Getting Shared Preference for crc64927116bd84c3d9be.MainApplication@5550cbf uid = 10631
+[IDS_TAG] App crc64927116bd84c3d9be.MainApplication@5550cbf has not finished training
+[IDS_TAG] Closing IDS observe window
+[IDS_TAG] Getting Shared Preference for crc64927116bd84c3d9be.MainApplication@5550cbf uid = 10631
+[IDS_TAG] IDS count updated to 1 for crc64927116bd84c3d9be.MainApplication@5550cbf
+[BLASTBufferQueue_Java] new BLASTBufferQueue, mName= ViewRootImpl@7b0d165[MainActivity] mNativeObject= 0xb4000078945ca090 sc.mNativeObject= 0xb4000079d4563b90 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3028 android.view.ViewRootImpl.relayoutWindow:10131 android.view.ViewRootImpl.performTraversals:4110 android.view.ViewRootImpl.doTraversal:3288 android.view.ViewRootImpl$TraversalRunnable.run:11344 android.view.Choreographer$CallbackRecord.run:1689 android.view.Choreographer$CallbackRecord.run:1698 android.view.Choreographer.doCallbacks:1153 android.view.Choreographer.doFrame:1079 android.view.Choreographer$FrameDisplayEventReceiver.run:1646 
+[BLASTBufferQueue_Java] update, w= 1080 h= 2340 mName = ViewRootImpl@7b0d165[MainActivity] mNativeObject= 0xb4000078945ca090 sc.mNativeObject= 0xb4000079d4563b90 format= -1 caller= android.graphics.BLASTBufferQueue.<init>:89 android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3028 android.view.ViewRootImpl.relayoutWindow:10131 android.view.ViewRootImpl.performTraversals:4110 android.view.ViewRootImpl.doTraversal:3288 android.view.ViewRootImpl$TraversalRunnable.run:11344 
+[ViewRootImpl@7b0d165[MainActivity]] Relayout returned: old=(0,0,1080,2340) new=(0,0,1080,2340) relayoutAsync=false req=(1080,2340)0 dur=7 res=0x403 s={true 0xb400007825913a40} ch=true seqId=0
+[ViewRootImpl@7b0d165[MainActivity]] performConfigurationChange setNightDimText nightDimLevel=0
+[ViewRootImpl@7b0d165[MainActivity]] mThreadedRenderer.initialize() mSurface={isValid=true 0xb400007825913a40} hwInitialized=true
+[cefilenotfound9] Compiler allocated 6917KB to compile void android.view.ViewRootImpl.performTraversals()
+[MaterialButton] MaterialButton manages its own background to control elevation, shape, color and states. Consider using backgroundTint, shapeAppearance and other attributes where available. A custom background will ignore these attributes and you should consider handling interaction states such as pressed, focused and disabled
+[ViewRootImpl@7b0d165[MainActivity]] reportNextDraw android.view.ViewRootImpl.performTraversals:4718 android.view.ViewRootImpl.doTraversal:3288 android.view.ViewRootImpl$TraversalRunnable.run:11344 android.view.Choreographer$CallbackRecord.run:1689 android.view.Choreographer$CallbackRecord.run:1698 
+[ViewRootImpl@7b0d165[MainActivity]] Setup new sync=wmsSync-ViewRootImpl@7b0d165[MainActivity]#0
+[ViewRootImpl@7b0d165[MainActivity]] Creating new active sync group ViewRootImpl@7b0d165[MainActivity]#1
+[ViewRootImpl@7b0d165[MainActivity]] registerCallbacksForSync syncBuffer=false
+[ViewRootImpl@7b0d165[MainActivity]] Received frameDrawingCallback syncResult=0 frameNum=1.
+[ViewRootImpl@7b0d165[MainActivity]] mWNT: t=0xb4000079945816f0 mBlastBufferQueue=0xb4000078945ca090 fn= 1 mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$8.onFrameDraw:13841 android.view.ThreadedRenderer$1.onFrameDraw:792 <bottom of call stack> 
+[ViewRootImpl@7b0d165[MainActivity]] Setting up sync and frameCommitCallback
+[cefilenotfound9] Compiler allocated 7172KB to compile void android.view.ViewRootImpl.performTraversals()
+[BLASTBufferQueue] [ViewRootImpl@7b0d165[MainActivity]#0](f:0,a:0,s:0) onFrameAvailable the first frame is available
+[ViewRootImpl@7b0d165[MainActivity]] Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+[OpenGLRenderer] CFMS:: SetUp Pid : 10960    Tid : 11057
+[ViewRootImpl@7b0d165[MainActivity]] reportDrawFinished seqId=0
+[OpenGLRenderer] HWUI - treat SMPTE_170M as sRGB
+[InsetsSourceConsumer] applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.companyname.resourcefilenotfound9/crc64927116bd84c3d9be.MainActivity
+[InsetsSourceConsumer] applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.companyname.resourcefilenotfound9/crc64927116bd84c3d9be.MainActivity
+[ViewRootImpl@7b0d165[MainActivity]] handleWindowFocusChanged: 1 0 call from android.view.ViewRootImpl.-$$Nest$mhandleWindowFocusChanged:0
+[ViewRootImpl@7b0d165[MainActivity]] mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb400007825913a40}
+[InputMethodManagerUtils] startInputInner - Id : 0
+[InputMethodManager] startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+[InputMethodManagerUtils] startInputInner - Id : 0
+[InsetsController] onStateChanged: host=com.companyname.resourcefilenotfound9/crc64927116bd84c3d9be.MainActivity, from=android.view.ViewRootImpl$ViewRootHandler.handleMessageImpl:7209, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2340), mDisplayCutout=DisplayCutout{insets=Rect(0, 80 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(511, 0 - 569, 80), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2340 physicalDisplayWidth=1080 physicalDisplayHeight=2340 density={2.8125} cutoutSpec={M 0,0 M 0,7.822222222222222‬‬ a 10.31111111111111‬,10.31111111111111‬ 0 1,0 0,20.62222222222222‬ a 10.31111111111111‬,10.31111111111111‬ 0 1,0 0,-20.62222222222222‬ Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=0, center=Point(0, 0)}, RoundedCorner{position=TopRight, radius=0, center=Point(0, 0)}, RoundedCorner{position=BottomRight, radius=0, center=Point(0, 0)}, RoundedCorner{position=BottomLeft, radius=0, center=Point(0, 0)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2340), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(964, 0 - 1080, 80) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1080 displayHeight=2340 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {3 mType=ime mFrame=[0,0][0,0] mVisible=false mFlags=[]}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,80] mVisible=true mFlags=[]}, InsetsSource: {48170001 mType=navigationBars mFrame=[0,2301][1080,2340] mVisible=true mFlags=[SUPPRESS_SCRIM]}, InsetsSource: {48170004 mType=systemGestures mFrame=[0,0][78,2340] mVisible=true mFlags=[]}, InsetsSource: {48170005 mType=mandatorySystemGestures mFrame=[0,2256][1080,2340] mVisible=true mFlags=[]}, InsetsSource: {48170006 mType=tappableElement mFrame=[0,0][0,0] mVisible=true mFlags=[]}, InsetsSource: {48170024 mType=systemGestures mFrame=[1002,0][1080,2340] mVisible=true mFlags=[]}, InsetsSource: {66d40000 mType=statusBars mFrame=[0,0][1080,80] mVisible=true mFlags=[]}, InsetsSource: {66d40005 mType=mandatorySystemGestures mFrame=[0,0][1080,112] mVisible=true mFlags=[]}, InsetsSource: {66d40006 mType=tappableElement mFrame=[0,0][1080,80] mVisible=true mFlags=[]} }
+[InsetsSourceConsumer] applyRequestedVisibilityToControl: visible=false, type=ime, host=com.companyname.resourcefilenotfound9/crc64927116bd84c3d9be.MainActivity
+[ViewRootImpl@7b0d165[MainActivity]] onDisplayChanged oldDisplayState=2 newDisplayState=2
+[ViewRootImpl@7b0d165[MainActivity]] onDisplayChanged oldDisplayState=2 newDisplayState=2
+[ProfileInstaller] Installing profile for com.companyname.resourcefilenotfound9
+[ViewRootImpl@7b0d165[MainActivity]] onDisplayChanged oldDisplayState=2 newDisplayState=2
+[ViewRootImpl@7b0d165[MainActivity]] handleAppVisibility mAppVisible = true visible = false
+[ViewRootImpl@7b0d165[MainActivity]] destroyHardwareResources: Callers=android.view.ViewRootImpl.performTraversals:3932 android.view.ViewRootImpl.doTraversal:3288 android.view.ViewRootImpl$TraversalRunnable.run:11344 android.view.Choreographer$CallbackRecord.run:1689 android.view.Choreographer$CallbackRecord.run:1698 android.view.Choreographer.doCallbacks:1153 android.view.Choreographer.doFrame:1079 android.view.Choreographer$FrameDisplayEventReceiver.run:1646 android.os.Handler.handleCallback:958 android.os.Handler.dispatchMessage:99 
+[OpenGLRenderer] CacheManager::trimMemory(20)
+[ViewRootImpl@7b0d165[MainActivity]] Relayout returned: old=(0,0,1080,2340) new=(0,0,1080,2340) relayoutAsync=false req=(1080,2340)8 dur=11 res=0x402 s={false 0x0} ch=true seqId=0
+[OpenGLRenderer] CacheManager::trimMemory(20)
+[ViewRootImpl@7b0d165[MainActivity]] stopped(true) old = false
+[ViewRootImpl@7b0d165[MainActivity]] WindowStopped on com.companyname.resourcefilenotfound9/crc64927116bd84c3d9be.MainActivity set to true
+[OpenGLRenderer] CacheManager::trimMemory(20)
+[ViewRootImpl@7b0d165[MainActivity]] onDisplayChanged oldDisplayState=2 newDisplayState=1
+[ViewRootImpl@7b0d165[MainActivity]] onDisplayChanged oldDisplayState=1 newDisplayState=1
+[ViewRootImpl@7b0d165[MainActivity]] handleWindowFocusChanged: 0 0 call from android.view.ViewRootImpl.-$$Nest$mhandleWindowFocusChanged:0
+[ImeFocusController] onPreWindowFocus: skipped, hasWindowFocus=false mHasImeFocus=true
+[ImeFocusController] onPostWindowFocus: skipped, hasWindowFocus=false mHasImeFocus=true
